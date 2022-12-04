@@ -6,7 +6,7 @@ En esta app se utiliza:
 - Consumo de API por medio de librería Volley.
 - Uso de splash screen usando LottieAnimationView.
 
-
+Screenshots:    
 <img src="./screenshots/MU1.jpeg" alt="splash" height = "304" width="144"/>
 <img src="./screenshots/MU2.jpeg" alt="list" height = "304" width="144"/>
 <img src="./screenshots/MU3.jpeg" alt="add_user" height = "304" width="144"/>
