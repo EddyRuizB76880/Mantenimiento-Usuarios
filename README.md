@@ -8,8 +8,8 @@ En esta app se utiliza:
 
 Screenshots:
 
-![Captura 1](./screenshots/MU1.jpeg "Splash")
+![Captura 1](./screenshots/MU1.jpeg =100x20 "Splash")
 
-![Captura 2](./screenshots/MU2.jpeg "Lista de usuarios")
+![Captura 2](./screenshots/MU2.jpeg =100x20 "Lista de usuarios")
 
-![Captura 3](./screenshots/MU3.jpeg "Pantalla de añadir usuario")
+![Captura 3](./screenshots/MU3.jpeg =100x20 "Pantalla de añadir usuario")
