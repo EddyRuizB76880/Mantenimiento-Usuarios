@@ -1,10 +1,12 @@
 # Mantenimiento-Usuarios
-Esta pequeña app es el resultado de realizar el Examen 2 del curso Desarrollo de aplicaciones móviles del 2do semestre 2022 de la Universidad de Costa Rica.
+This small app is the result of doing the Exam#2 of the Mobile software development course, imparted at the Universidad de Costa Rica, during the second semester of 2022.
 
-En esta app se utiliza:
-- CRUD usando DAO Rooms como almacenamiento persistente.
-- Consumo de API por medio de librería Volley.
-- Uso de splash screen usando LottieAnimationView.
+In this app, I implement:
+- CRUD using DAO Rooms as persistent storage.
+- API consumption by using the Volley library.
+- A customized RecyclerView adapter for a RecyclerView UI element.
+- Splash screen using LottieAnimationView.
+- Model-View-Controller architecture.
 
 Screenshots:    
 <img src="./screenshots/MU1.jpeg" alt="splash" height = "304" width="144"/>
